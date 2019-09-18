@@ -7,4 +7,4 @@ The Champaign County Regional Planning Commission (CCRPC) makes available variou
 
 ## Data Details
 
-The dataset in the repo is the poverty status data sets by county, municipality, and townhip.  Additional datasets can be found here: https://ccrpc.org/data/?category_name=planning
+The dataset in the repo is the poverty status data sets by county, municipality, and townhip.  Additional datasets can be found here: https://ccrpc.org/data/?category_name=planning.
